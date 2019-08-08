@@ -1,0 +1,65 @@
+.container-fluid{
+  background-size: cover;
+  height: 200px;
+}
+
+
+.nav-tabs{
+justify-content: space-around;
+}
+
+.input-group{
+ margin: 20px;
+}
+
+.container-fluid .nav a{
+   color: white;
+   font-size: 20px;
+ }
+
+.container .nav a{
+   color: black;
+   
+ }
+
+ .container-fluid .nav a:hover{
+  color: black;
+  
+ }
+
+
+section{
+  text-align: center;
+  color: white
+
+}
+
+.add{
+  margin: 10px;
+  height: 20px;
+  width: 20px;
+  border: none;
+
+}
+
+.edit{
+  margin: 10px;
+  height: 20px;
+  width: 20px;
+  border: none;
+
+}
+
+.cancel{
+  margin: 10px;
+  height: 20px;
+  width: 20px;
+  border: none;
+
+}
+
+
+.input-group-append{
+  align-items: center;
+
+}

@@ -1,0 +1,70 @@
+body{
+  background: #bdbdbd26;
+}
+
+
+.container-fluid{
+  background-size: cover;
+  height: 200px;
+}
+
+.container{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-tabs{
+justify-content: space-around;
+}
+
+.input-group{
+ margin: 20px;
+}
+
+.container-fluid .nav a{
+   color: white;
+   font-size: 20px;
+ }
+
+.container .nav a{
+   color: black;
+   
+ }
+
+ .container-fluid .nav a:hover{
+  color: black;
+  
+ }
+
+
+section{
+  text-align: center;
+  color: white
+}
+
+.add{
+  height: 15px;
+  width: 15px;
+  border: none;
+  cursor: pointer;
+}
+
+
+.cancel{
+  height: 15px;
+  width: 15px;
+  border: none;
+  cursor: pointer;
+
+}
+
+
+.input-group-append{
+  align-items: center;
+
+}
+
+
+.form-group label{
+  margin:  15px;
+}
